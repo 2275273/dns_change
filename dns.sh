@@ -4,8 +4,6 @@
 # 🚀 DNS 优化工具 v2.0
 # =============================================================================
 # 描述: 一键将DNS设置为高速稳定的 8.8.8.8 咿 1.1.1.1
-# 适用: 搬瓦工VPS及各种Linux系统
-# 作耿: 搬瓦工精品网BWH91.COM 
 # 更新: $(date +%Y-%m-%d)
 # =============================================================================
 
@@ -36,8 +34,8 @@ print_header() {
     echo -e "${WHITE}                    ${ROCKET} DNS 优化工具 v2.0                     ${NC}"
     echo -e "${PURPLE}=================================================================${NC}"
     echo -e "${CYAN}  将DNS设置为高速稳定的 Google & Cloudflare DNS 服务噿${NC}"
-    echo -e "${CYAN}                    搬瓦工精品网BWH91.COM ${NC}"
-    echo -e "${CYAN}            如遇问题，进群获取支挿 https://t.me/BWH81  ${NC}"
+    echo -e "${CYAN}                    微信day11337766 ${NC}"
+    echo -e "${CYAN}                     QQ22752723  ${NC}"
     echo -e "${PURPLE}=================================================================${NC}"
     echo ""
 }
@@ -369,13 +367,13 @@ show_completion_info() {
     echo -e "${WHITE}sudo cp $BACKUP_FILE /etc/resolv.conf${NC}"
     echo ""
     
-    echo -e "${YELLOW}📞 技术支挿:${NC}"
-    echo -e "  如遇问题，进群获取支挿 https://t.me/BWH81 "
+    echo -e "${YELLOW}📞 :${NC}"
+    echo -e "   "
     echo ""
     
     echo -e "${GREEN}=================================================================${NC}"
-    echo -e "${WHITE}           🎉 关注搬瓦工传奇频避 https://t.me/BWH82                     ${NC}"
-    echo -e "${WHITE}           🎉 加入搬瓦工交流群 https://t.me/BWH81                     ${NC}"
+    echo -e "${WHITE}           🎉 解决各种网络和软路由问题                     ${NC}"
+    echo -e "${WHITE}           🎉 微信day11337766                    ${NC}"
     echo -e "${GREEN}=================================================================${NC}"
 }
 
